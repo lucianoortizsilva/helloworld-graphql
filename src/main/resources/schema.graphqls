@@ -1,0 +1,9 @@
+type Person {
+    id: Long!
+    firstname: String!
+    lastname: String!
+}
+
+type Query {
+    allPersons: [Person] 
+}
