@@ -27,12 +27,6 @@
 
 	<dependencies>
 
-		<!-- LOMBOK -->
-		<dependency>
-			<groupId>org.projectlombok</groupId>
-			<artifactId>lombok</artifactId>
-		</dependency>
-
 		<!-- H2 -->
 		<dependency>
 			<groupId>com.h2database</groupId>
