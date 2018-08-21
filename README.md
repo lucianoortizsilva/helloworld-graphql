@@ -24,5 +24,5 @@
 
  - 3.2.1 Sugestão de insert: src/main/resources/static/sql/data.sql
 
- - 4º. Aplicar GraphQL: http://localhost:8080/
+ - 4º. Aplicar GraphQL: http://localhost:8080/ \
  ![graphql](https://user-images.githubusercontent.com/18357844/44362571-c6f8a100-a497-11e8-9722-cbe4599d9dc5.jpg)
